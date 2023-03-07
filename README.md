@@ -1,7 +1,7 @@
-# Weather Progressive Web Application
+# Weather App with PWA
 ![Weather Data](https://i.imgur.com/3csowzj.png)
 
-### [Live Site](https://inspiring-bhaskara-d21f88.netlify.app)
+### [Live Site](https://weatherglance.netlify.app)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
